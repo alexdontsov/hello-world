@@ -1,0 +1,16 @@
+{
+    "name": "alex/hello-world",
+    "description": "My test package for home work",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^2.1",
+        "symfony/yaml": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Dontsov",
+            "email": "dcorpsoftware@gmail.com"
+        }
+    ]
+}
