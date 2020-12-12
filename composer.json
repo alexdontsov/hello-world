@@ -12,5 +12,10 @@
             "name": "Alex Dontsov",
             "email": "dcorpsoftware@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Log\\": "src/Log"
+        }
+    }
 }
