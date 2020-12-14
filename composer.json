@@ -1,10 +1,11 @@
 {
     "name": "alexdontsov/hello-world",
     "description": "My test package for home work",
+    "minimum-stability": "dev",
     "type": "library",
     "require": {
         "monolog/monolog": "^2.1",
-        "symfony/yaml": "^5.2"
+        "symfony/yaml": "^5.1.*"
     },
     "license": "MIT",
     "authors": [
