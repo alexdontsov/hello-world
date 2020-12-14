@@ -1,5 +1,5 @@
 {
-    "name": "alex/hello-world",
+    "name": "alexdontsov/hello-world",
     "description": "My test package for home work",
     "type": "library",
     "require": {
